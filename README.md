@@ -123,7 +123,5 @@ A small group of countries contributes a significant share of global emissions. 
 ---
 
 ## 👤 Author
-Surya Teja
-
-Y. Surya Teja  
+Surya Teja  
 SQL Data Analysis Project  
