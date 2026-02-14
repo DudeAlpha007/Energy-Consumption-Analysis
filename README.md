@@ -50,25 +50,25 @@ Time-based analysis is performed using the **Year** column.
 
 ## Key Analytical Areas
 
-### 1️⃣ General & Comparative Analysis
+### 1️) General & Comparative Analysis
 - Total emissions per country (latest year)
 - Top 5 GDP countries
 - Production vs Consumption comparison
 - Energy types contributing most to emissions
 
-### 2️⃣ Trend Analysis
+### 2️) Trend Analysis
 - Year-over-year global emission trends
 - GDP growth trends by country
 - Population vs emission patterns
 - Per-capita emission changes over time
 
-### 3️⃣ Ratio & Per-Capita Analysis
+### 3️) Ratio & Per-Capita Analysis
 - Emission-to-GDP ratio (carbon intensity)
 - Energy consumption per capita
 - Production per capita
 - Energy intensity (consumption relative to GDP)
 
-### 4️⃣ Global Comparisons
+### 4️) Global Comparisons
 - Top 10 countries by population & emissions
 - Global emission share by country
 - Global average GDP, emission & population trends
@@ -122,6 +122,6 @@ A small group of countries contributes a significant share of global emissions. 
 
 ---
 
-## 👤 Author
+## Author
 Surya Teja  
 SQL Data Analysis Project  
